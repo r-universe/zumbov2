@@ -1,0 +1,22 @@
+[
+  {
+    "package": "colorfindr",
+    "oncran": true
+  },
+  {
+    "package": "colorizer",
+    "oncran": true
+  },
+  {
+    "package": "deeplr",
+    "oncran": true
+  },
+  {
+    "package": "findR",
+    "oncran": true
+  },
+  {
+    "package": "swissparl",
+    "oncran": true
+  }
+]
