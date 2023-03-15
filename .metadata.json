@@ -1,6 +1,10 @@
 [
   {
-    "package": "colorfindr",
+    "package": "deeplr",
+    "oncran": true
+  },
+  {
+    "package": "findR",
     "oncran": true
   },
   {
@@ -8,11 +12,7 @@
     "oncran": true
   },
   {
-    "package": "deeplr",
-    "oncran": true
-  },
-  {
-    "package": "findR",
+    "package": "colorfindr",
     "oncran": true
   },
   {

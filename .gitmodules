@@ -3,16 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "colorfindr"]
-	path = colorfindr
-	url = https://github.com/zumbov2/colorfindr
-	shallow = true
-	registered = true
-[submodule "colorizer"]
-	path = colorizer
-	url = https://github.com/zumbov2/colorizer
-	shallow = true
-	registered = true
 [submodule "deeplr"]
 	path = deeplr
 	url = https://github.com/zumbov2/deeplr
@@ -21,6 +11,16 @@
 [submodule "findR"]
 	path = findR
 	url = https://github.com/zumbov2/findr
+	shallow = true
+	registered = true
+[submodule "colorizer"]
+	path = colorizer
+	url = https://github.com/zumbov2/colorizer
+	shallow = true
+	registered = true
+[submodule "colorfindr"]
+	path = colorfindr
+	url = https://github.com/zumbov2/colorfindr
 	shallow = true
 	registered = true
 [submodule "swissparl"]
